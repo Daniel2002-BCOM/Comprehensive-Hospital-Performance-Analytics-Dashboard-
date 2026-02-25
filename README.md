@@ -1,4 +1,5 @@
-This README content is optimized for GitHub, using the data and visuals directly from your project files.
+<img width="1908" height="755" alt="image" src="https://github.com/user-attachments/assets/92cb119b-2463-41e5-ba08-ec992e012cec" />
+
 
 Hospital Analysis Dashboard
 A comprehensive Power BI dashboard designed to analyze hospital operations, patient demographics, and financial performance. This project transforms raw medical data into actionable insights using a modern, accessible data model.
